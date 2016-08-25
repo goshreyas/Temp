@@ -3,6 +3,13 @@
    e.g. if A = {1, 3, 5}, B = {2, 3, 4, 5}, then (A-B) U (B-A) = {1, 2, 4}
  */
 
+/*
+Logic:
+1. Sort array A & B.
+2. Remove duplicate number from array A & B.
+*/
+
+
 
 #include<stdio.h>
 #include<stdlib.h>
